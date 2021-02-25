@@ -1,14 +1,14 @@
 ﻿DemoKart
 
-Project Title:
+**Project Title:**
 
 Shopping Cart
 
-Project Purpose:
+**Project Purpose:**
 
 Shopping cart is a E commerce site to facilitate the customer to buy the products online. The customers will select the products listed to buy, add them into a cart, places the orders and make the payments.
 
-Project Scope:
+**Project Scope:**
 
 - Any member can register and view products and can filter based on Category.
 - Customer can search any product with the name of the product and the product code.
@@ -23,7 +23,7 @@ Project Goal
 - Customer Satisfaction
 - Track Customer orders
 
-SWAT analysis
+**SWOT analysis**
 
 |***Strengths***|***Weaknesses***|***Opportunities***|***Threats***|
 | - | - | - | - |
