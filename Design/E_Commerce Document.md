@@ -37,20 +37,13 @@ Project Goal
 
 Use Case Diagram
 
-Design/Aspose.Words.d55acc11-4fd1-4b09-8770-b3e01078628d.001.png
 
-![Diagram
-
-Description automatically generated](UseCase.png)
+![Diagram Description automatically generated](UseCase.png)
 
 Flow Chart
 
-![A picture containing shape
-
-Description automatically generated](FlowChart.png)
+![A picture containing shape Description automatically generated](FlowChart.png)
 
 Class Diagram
 
-![Graphical user interface, application, website
-
-Description automatically generated](ClassDiagram.png)
+![Graphical user interface, application, website Description automatically generated](ClassDiagram.png)
