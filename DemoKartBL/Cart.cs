@@ -6,35 +6,20 @@ using System.Threading.Tasks;
 
 namespace DemoKartBL
 {
-    public class Cart : Product
+    public class Cart 
     {
-        //Delete this method before submission
-        //Method was created to generate test project
-        public String productId { get; set; }
-        public int quantity { get; set; }
-        public Cart(String pid, int q)
+        public int cartId;
+        public int AddToCart(int Quantity)
         {
-            productId = pid;
-            quantity = q;
-        }
-        public bool verifyProdid(String pid)
-        {
-            if (product.ContainsKey(productId))
-                return true;
-            return false;
-        }
-        public int cartdetails()
-        {
-            int p = 0;
-            bool keyExists = product.ContainsKey(productId);
-            if (keyExists)
+            if (Quantity > 10)
             {
-                quantityPid[productId] -= quantity;
-                p += product[productId];
-                return p;
+                return 1;
             }
             else
+            {
                 return 0;
+            }
+
         }
     }
 }
