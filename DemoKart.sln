@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoKartMainProgram", "Demo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoKartBLTests", "DemoKartBLTests\DemoKartBLTests.csproj", "{F37C7CE9-960F-418F-BDE7-45F63023BB42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoKartBLTests1", "DemoKartBLTests1\DemoKartBLTests1.csproj", "{6A1AE0AC-C452-4DDA-8460-66F8487697DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F37C7CE9-960F-418F-BDE7-45F63023BB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F37C7CE9-960F-418F-BDE7-45F63023BB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F37C7CE9-960F-418F-BDE7-45F63023BB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1AE0AC-C452-4DDA-8460-66F8487697DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1AE0AC-C452-4DDA-8460-66F8487697DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1AE0AC-C452-4DDA-8460-66F8487697DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1AE0AC-C452-4DDA-8460-66F8487697DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
